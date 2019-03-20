@@ -2,6 +2,7 @@
   font-family: cursive;
   color: navy;
 
+
 }
 
 .second-stage{
@@ -10,4 +11,15 @@
 }
 
 img{
-  max-width: 50%;
+  max-width: 30%;
+  float: right;
+}
+.column{
+  width: 300px;
+  float: left;
+}
+
+.sidebar{
+  float: left;
+  background-color: Pink;
+}
