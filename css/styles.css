@@ -2,9 +2,10 @@
   font-family: cursive;
   color: navy;
 
-
 }
-
+.first-stage ul {
+  font-family: serif;
+}
 .second-stage{
   font-family: fantasy;
   color: darkgreen;
@@ -13,13 +14,41 @@
 img{
   max-width: 30%;
   float: right;
+  border-style: double;
+  border-color: pink;
+  border-width: 8px;
+  padding: 4px;
+  margin: 8px;
 }
-.column{
+
+.column1{
   width: 300px;
   float: left;
+  background-color: teal;
+}
+
+.column2{
+  width: 300px;
+  float: left;
+  background-color: lightgreen;
+}
+
+.column3{
+  width: 300px;
+  float: left;
+  background-color: lightgray;
 }
 
 .sidebar{
-  float: left;
+  float: right;
   background-color: Pink;
+}
+.intro{
+  border: solid;
+  border-color: pink;
+  border-width: 8px;
+  padding: 4px;
+  margin-top: 200px;
+  margin-bottom: 25px;
+  background-color: lightgray;
 }
