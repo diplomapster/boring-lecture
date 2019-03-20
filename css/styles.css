@@ -52,3 +52,9 @@ img{
   margin-bottom: 25px;
   background-color: lightgray;
 }
+.latin{
+  font-weight: bolder;
+}
+.intro .latin{
+  font-size: 500pt
+}
